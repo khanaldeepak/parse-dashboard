@@ -1,9 +1,9 @@
 {
   "apps": [{
-    "serverURL": "",
-    "appId": "",
-    "masterKey": "",
-    "appName": "",
+    "serverURL": "https://instagram0417.herokuapp.com/parse",
+    "appId": "instagram04178",
+    "masterKey": "instagram0417instagram0417",
+    "appName": "instagram0417",
     "iconName": ""
   }],
   "iconsFolder": "icons"
